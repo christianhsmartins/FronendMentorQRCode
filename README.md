@@ -6,4 +6,4 @@ Este projeto foi realizado através do [Frontend Mentor](https://www.frontendmen
 
 ## 
 
-**Para este desafio, decidi utilizar SCSS para estilizar o projeto.**
+**Para este desafio, decidi utilizar SASS para estilizar o projeto.**
